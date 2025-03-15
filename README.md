@@ -1,4 +1,4 @@
-# 📚 Book Store - Frontend
+# 📚 Book Store 
 
 ## 🌐 Live Demo
 [Book Store](https://book-store-proo.netlify.app/)
